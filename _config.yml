@@ -2,20 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Neural Manifolds # the website title (if blank, full name will be used instead)
+title: Arthur Pellegrino # the website title (if blank, full name will be used instead)
 first_name: Arthur
 middle_name: 
 last_name: Pellegrino
-email: you@example.com
+email: pellegrino.arthur@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hi, my name is Arthur and I am a final-year PhD Student at the University of Edinburgh, working on dynamical systems and manifolds.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Footer.
+keywords: Arthur, Pellegrino, Neuroscience, Machine Learning, Dynamical Systems, Manifold # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://arthur-pe.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -30,7 +28,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: False
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -40,7 +38,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: False
 
 # -----------------------------------------------------------------------------
 # Layout
