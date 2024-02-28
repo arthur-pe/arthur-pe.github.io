@@ -24,5 +24,5 @@ I am a final-year PhD student at the University of Edinburgh. My research intere
 ![math-neuro-ml](/assets/img/schematic-ml-math-neuro-tex-font.png){: width="450"}
 {: refdef}
 
-I develop mathematical tools for better **data-driven modeling** of the brain, which I in turn use to test fundamental hypotheses about the geometry and dynamics** of neural computations. In particular, I combine concepts from **dynamical systems**, **differential geometry** and **tensors** to probe for low-dimensional neural manifolds and model dynamics on them.
+I develop mathematical tools for better data-driven modeling of the brain, which I in turn use to test fundamental hypotheses about the geometry and dynamics** of neural computations. In particular, I combine concepts from **dynamical systems**, **differential geometry** and **tensors** to probe for low-dimensional **neural manifolds** and model dynamics on them.
 
