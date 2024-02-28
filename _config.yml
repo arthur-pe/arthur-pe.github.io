@@ -9,7 +9,7 @@ last_name: Pellegrino
 email: pellegrino.arthur@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi, my name is Arthur and I am a final-year PhD Student at the University of Edinburgh, working on dynamical systems and manifolds.
-footer_text:
+footer_text: Footer.
 keywords: Arthur, Pellegrino, Neuroscience, Machine Learning, Dynamical Systems, Manifold # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo2.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -73,7 +73,7 @@ telegram_username: # your Telegram user name
 scholar_userid: YySGyGAAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0009-0007-1849-575X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -100,7 +100,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note:
+contact_note: Contact.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -119,9 +119,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
-blog_description: #a simple whitespace theme for academics
-permalink: #/blog/:year/:title/
+blog_name: BlogName # blog_name will be displayed in your blog page
+blog_description: BlogDescription #a simple whitespace theme for academics
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -154,8 +154,8 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name:
-    rss_url:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
