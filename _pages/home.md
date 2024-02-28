@@ -5,8 +5,8 @@ permalink: / #subtitle:
 
 profile:
   align: right
-  image: schematic-ml-math-neuro-tex-font.png
-  image_circular: false # crops the image to make it circular
+  image: profile-pic.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><b>Institute for Adaptive and Neural Computation,</b></p>
     <p>School of Informatics,</p>
