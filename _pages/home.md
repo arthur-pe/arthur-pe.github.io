@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a final-year PhD student at the University of Edinburgh. My research interests lie at the interface between **mathematics**, **machine learning** and **computational neuroscience**.
 
-![math-neuro-ml](/assets/img/schematic-ml-math-neuro-tex-font.png){: max-width="500"}
+![math-neuro-ml](/assets/img/schematic-ml-math-neuro-tex-font.png){: width="400"}
 
 I develop mathematical tools for better **data-driven modeling** of the brain, which I in turn use to test fundamental hypotheses about the **geometry** and **dynamics** of neural activity. In particular, I combine my knowledge of **dynamical systems**, **differential geometry** and **tensors** to probe for low-dimensional **neural manifolds** and model **dynamics** on them.
 
