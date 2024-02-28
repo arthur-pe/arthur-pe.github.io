@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Here you will find data analysis and modeling code from my papers. They are all easy to apply to your own data in a few lines of code.
 nav: true
 nav_order: 4
