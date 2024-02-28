@@ -1,6 +1,3 @@
-github_users:
-  - arthur-pe
-
 github_repos:
-  - slicetca/slicetca
-  - LtrRNN/LtrRNN
+  - slicetca
+  - LtrRNN
