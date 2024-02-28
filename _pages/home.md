@@ -5,7 +5,7 @@ permalink: / #subtitle:
 
 profile:
   align: right
-  image: profile-pic.png
+  image: profile_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><b>Institute for Adaptive and Neural Computation,</b></p>
