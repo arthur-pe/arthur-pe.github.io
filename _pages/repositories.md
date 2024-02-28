@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: Here you will find data analysis and modeling code from my papers. They are all easy to apply to your own data in a few lines of code.
 nav: true
 nav_order: 4
 ---
 
 
-## GitHub Repositories
+## GitHub
 
 {% if site.data.repositories.github_repos %}
 
