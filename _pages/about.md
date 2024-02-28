@@ -18,5 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year PhD student at the University of Edinburgh. My research interests lie at the interface between **mathematics**, **machine learning** and **computational neuroscience**. I develop mathematical tools for better **data-driven modeling** of the brain. In particular, I combine my knowledge of **dynamical systems**, **differential geometry** and **tensors** to probe for low-dimensional **neural manifolds** and model **dynamics** on them.
+I am a final-year PhD student at the University of Edinburgh. My research interests lie at the interface between **mathematics**, **machine learning** and **computational neuroscience**. 
+
+```html
+<div class="image">
+<img src="assets/img/schematic-ml-math-neuro-tex-font.png">
+</div>
+```
+
+I develop mathematical tools for better **data-driven modeling** of the brain, which I in turn use to test fundamental hypotheses about the **geometry** and **dynamics** of neural activity. In particular, I combine my knowledge of **dynamical systems**, **differential geometry** and **tensors** to probe for low-dimensional **neural manifolds** and model **dynamics** on them.
 
