@@ -5,10 +5,10 @@ permalink: / #subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: schematic-ml-math-neuro-tex-font.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Institute for Adaptive and Neural Computation</p>
+    <p><b>Institute for Adaptive and Neural Computation</b></p>
     <p>School of Informatics</p>
     <p>University of Edinburgh</p>
 
